@@ -1,2 +1,4 @@
 APPLE 
 BALL
+CAT 
+DOG
